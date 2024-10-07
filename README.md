@@ -56,16 +56,16 @@ WHERE CONDITION = TRUE
 
 ### Data Visualization
 
-![Bar Cahrt](https://github.com/user-attachments/assets/bfab8ea1-24df-4577-a40a-1e53ceb43f93)
+![Bar Cahrt](https://github.com/user-attachments/assets/15f117f3-f83e-4a58-a9a1-654df75423cc)
 
 
 
 ![images](https://github.com/user-attachments/assets/c6400fa3-c57e-4378-bd30-0854ec5fc251)
 
-![images](https://github.com/user-attachments/assets/5b56b5af-a344-4f43-8d6b-410f29c97002)
+
+![LITA chart](https://github.com/user-attachments/assets/3cf13e2d-8b7e-40d2-8789-f87da5c8f5c6)
 
 
-![LITA chart](https://github.com/user-attachments/assets/c74755a9-7779-4597-bc54-0d6abb1ecf45)
 
 
 🥇
