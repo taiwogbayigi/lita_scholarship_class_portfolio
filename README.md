@@ -76,6 +76,10 @@ WHERE CONDITION = TRUE
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
 
+|heading 1|heading 2|heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
+
 
 |H1|H2|H3|
 |--|--|--|
