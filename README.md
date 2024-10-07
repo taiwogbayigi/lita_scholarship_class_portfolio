@@ -59,6 +59,9 @@ WHERE CONDITION = TRUE
 ![Bar Cahrt](https://github.com/user-attachments/assets/bfab8ea1-24df-4577-a40a-1e53ceb43f93)
 
 
+
+![images](https://github.com/user-attachments/assets/c6400fa3-c57e-4378-bd30-0854ec5fc251)
+
 ![images](https://github.com/user-attachments/assets/5b56b5af-a344-4f43-8d6b-410f29c97002)
 
 
