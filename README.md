@@ -1,6 +1,6 @@
 # lita_scholarship_class_portfolio
 
-### Project Title: E commerce Sales Analysis
+### Project Title: International Breweries Sales Analysis
 
 [Project Overview](#project-overview)
 
@@ -15,11 +15,11 @@
 
 ### Project Overview
 ---
-This Data Analysis project aims to generate insight into the sales performance of the E commerce project over the past year. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
+This Data Analysis project aims to generate insight into the sales performance of the international breweries over the past year. By analysing the various parameters in the data received we seeked to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
 
 ### Data Sources
 ---
-The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
+The primary source of Data used here is international breweries.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
 
 ### Tools Used
 ---
@@ -41,9 +41,12 @@ In the initial phase of the Data cleaning and preparations, we perform the follo
 ### Exploratory Data Analysis
 ---
 EDA involved the exploring of the Data to answer some questions about the Data such as;
-- What is the overall sales trend
-- Which product are top sellers
-- What are the products on peak sales?
+- What is the total profit
+- What is the total profit for senegal
+- What is the total profit for Nigeria in 2019
+- What is the total profit by brands for Nigeria in 2017
+- What is the total profit for Hero brands
+- What is the total profit by countries and groups for Nigeria in 2017, 2018, 2019
 
 ### Data Analysis
 ---
