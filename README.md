@@ -53,8 +53,31 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
 
 ```SQL
-SELECT * FROM TABLE1
-WHERE CONDITION = TRUE
+
+
+select * from InternationalBreweries
+select sum(profit) as totalprofit from InternationalBreweries 
+where COUNTRIES='senegal'
+
+select sum(profit) as totalprofit from InternationalBreweries 
+where COUNTRIES='nigeria' and YEARS='2019'
+
+select brands, sum(profit) as totalprofit 
+from InternationalBreweries  
+where COUNTRIES='nigeria' and years=2017 group by brands
+
+select sum(profit) as totalprofit from InternationalBreweries 
+where BRANDS='hero'
+
+SELECT countries,
+		CASE
+	     WHEN COUNTRIES IN ('Nigeria', 'Ghana') then 'Anglophone'
+		 Else 'Francophone'
+End as CountriesGroup,
+sum(Profit) as TotalProfit from internationalbreweries
+where years in ('2017', '2018', '2019')
+Group by Countries
+order by 3 desc
 ```
 
 ### Data Visualization
